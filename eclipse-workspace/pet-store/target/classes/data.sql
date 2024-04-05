@@ -1,0 +1,12 @@
+INSERT INTO customer (customer) VALUES ('susan ');
+INSERT INTO customer (customer) VALUES ('bill ');
+INSERT INTO customer (customer) VALUES ('bob ');
+INSERT INTO customer (customer) VALUES ('sally ');
+INSERT INTO customer (customer) VALUES ('lisa ');
+INSERT INTO customer (customer) VALUES ('nick ');
+INSERT INTO customer (customer) VALUES ('joe ');
+INSERT INTO customer (customer) VALUES ('roxy ');
+INSERT INTO customer (customer) VALUES ('luis ');
+INSERT INTO customer (customer) VALUES ('denver ');
+INSERT INTO customer (customer) VALUES ('jon ');
+INSERT INTO customer (customer) VALUES ('heidi ');
