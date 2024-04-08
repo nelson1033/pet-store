@@ -1,4 +1,3 @@
-
 package pet.store.controller.model;
 
 import lombok.Data;
